@@ -91,3 +91,8 @@ How does git resolves these conflicts ?
 There are times when git resolves this automaticaly but it generally ask for a manual merge.
 
 ![alt text](conflicts.png)
+
+### Cloning In Git 
+Cloning helps in creating a copy of the repository and links it to the original repository.The duplicate repository is sync with the original repository.This is the cloning command in git, you write git clone followed by what you want to clone and the target
+
+    git clone <URLoftherepo> <URLofwherewillbelocalrepo>
